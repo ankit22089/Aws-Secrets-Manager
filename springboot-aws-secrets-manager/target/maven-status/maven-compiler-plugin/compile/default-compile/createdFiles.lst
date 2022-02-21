@@ -1,0 +1,5 @@
+com\javatechie\aws\rds\AwsSecrets.class
+com\javatechie\aws\rds\BookRepository.class
+com\javatechie\aws\rds\Book.class
+com\javatechie\aws\rds\SpringbootAwsRdsExampleApplication.class
+com\javatechie\aws\rds\ApplicationConfig.class
